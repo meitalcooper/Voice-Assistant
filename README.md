@@ -18,7 +18,7 @@ This Python project implements a simple voice assistant capable of understanding
 ## Setup
 To run this project, you will need to install the required Python libraries. Follow these steps:
 
-\```bash
+
 # Clone the repository
 git clone https://github.com/meitalcooper/python-voice-assistant.git
 cd python-voice-assistant
@@ -28,7 +28,7 @@ pip install pyttsx3 speech_recognition selenium requests
 
 # Run the application
 python main.py
-\```
+
 
 ## How to Use
 1. Start the application using the command `python main.py`.
